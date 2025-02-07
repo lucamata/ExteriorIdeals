@@ -1,5 +1,5 @@
 # ExteriorIdeals
-A Macaulay2 package for working with ideals over exterior algebra.
+A Macaulay2 package for working with ideals over an exterior algebra.
 
 Introduction
 ===================
